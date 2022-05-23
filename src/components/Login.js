@@ -4,7 +4,7 @@ import { Box, textAlign } from '@mui/system'
 import center from './center'
 
 export default function Login() {
-const [value,setvalue] = useState({
+const [value,setValue] = useState({
     
 })
     
